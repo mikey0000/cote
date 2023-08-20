@@ -24,7 +24,7 @@
   },
   "main": "src/index.js",
   "license": "MIT",
-  "repository": "dashersw/cote",
+  "repository": "mikey0000/cote",
   "engines": {
     "node": ">=v10.0.0"
   },
